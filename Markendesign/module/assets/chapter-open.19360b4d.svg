@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.37" height="52.37" viewBox="0 0 52.37 52.37">
+  <defs>
+    <filter id="Oval_44" x="0" y="0" width="52.37" height="52.37" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="paper-fab_mini_close" data-name="paper-fab mini close" transform="translate(9.5 7.5)">
+    <g transform="matrix(1, 0, 0, 1, -9.5, -7.5)" filter="url(#Oval_44)">
+      <circle id="Oval_44-2" data-name="Oval 44" cx="16.685" cy="16.685" r="16.685" transform="translate(9.5 7.5)" fill="#fafafa" stroke="#afca28" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="236.918" height="65.15" viewBox="0 0 236.918 65.15">
+  <defs>
+    <filter id="Pfad_5646" x="1.726" y="0" width="235.191" height="65.15" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval_44" x="0" y="0" width="65.927" height="65.15" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_1572" data-name="Gruppe 1572" transform="translate(-684.499 -432.382)">
+    <g id="Gruppe_1250" data-name="Gruppe 1250" transform="translate(642.154 223.123)">
+      <g id="Gruppe_410" data-name="Gruppe 410" transform="translate(49.845 214.758)">
+        <g id="Komponente_6_42" data-name="Komponente 6 – 42" transform="translate(1.726 0)">
+          <g transform="matrix(1, 0, 0, 1, -9.23, -5.5)" filter="url(#Pfad_5646)">
+            <path id="Pfad_5646-2" data-name="Pfad 5646" d="M516.6,283.942H426.756c-14.166,0-25.65,10.987-25.65,24.538v1.075c0,13.551,11.484,24.538,25.65,24.538H595.649c14.166,0,25.649-10.987,25.649-24.538V308.48c0-13.551-11.483-24.538-25.649-24.538" transform="translate(-391.88 -278.44)" fill="#009640"/>
+          </g>
+        </g>
+        <g id="Gruppe_407" data-name="Gruppe 407" transform="translate(0 0)">
+          <g transform="matrix(1, 0, 0, 1, -7.5, -5.5)" filter="url(#Oval_44)">
+            <ellipse id="Oval_44-2" data-name="Oval 44" cx="25.463" cy="25.075" rx="25.463" ry="25.075" transform="translate(7.5 5.5)" fill="orange"/>
+          </g>
+          <text id="_1" data-name="1" transform="translate(18.612 30.583)" fill="#fff" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <text id="Logo" transform="translate(122.062 32.699)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-24" y="0">Logo</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

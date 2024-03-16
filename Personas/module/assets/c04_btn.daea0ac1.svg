@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="310.561" height="65.151" viewBox="0 0 310.561 65.151">
+  <defs>
+    <filter id="Pfad_22337" x="1.866" y="0" width="308.695" height="65.15" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval_44" x="0" y="0" width="65.927" height="65.15" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_2067" data-name="Gruppe 2067" transform="translate(-1098.5 -433.38)">
+    <g id="Gruppe_408" data-name="Gruppe 408" transform="translate(1106 438.881)">
+      <g id="Komponente_6_95" data-name="Komponente 6 – 95" transform="translate(1.866 0)">
+        <g transform="matrix(1, 0, 0, 1, -9.37, -5.5)" filter="url(#Pfad_22337)">
+          <path id="Pfad_22337-2" data-name="Pfad 22337" d="M515.273,283.942H426.46c-14,0-25.354,10.987-25.354,24.538v1.075c0,13.551,11.352,24.538,25.354,24.538H669.448c14,0,25.353-10.987,25.353-24.538V308.48a24.561,24.561,0,0,0-13.816-21.856,25.631,25.631,0,0,0-11.537-2.682" transform="translate(-391.74 -278.44)" fill="#009640"/>
+        </g>
+      </g>
+      <g id="Gruppe_407" data-name="Gruppe 407" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -7.5, -5.5)" filter="url(#Oval_44)">
+          <ellipse id="Oval_44-2" data-name="Oval 44" cx="25.463" cy="25.075" rx="25.463" ry="25.075" transform="translate(7.5 5.5)" fill="orange"/>
+        </g>
+        <text id="_4" data-name="4" transform="translate(18.612 32.076)" fill="#fff" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <text id="Zusammenfassung" transform="translate(75.062 32.574)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Zusammenfassung</tspan></text>
+    </g>
+  </g>
+</svg>

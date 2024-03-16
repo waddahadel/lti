@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.37" height="48.37" viewBox="0 0 48.37 48.37">
+  <defs>
+    <filter id="Oval_44" x="0" y="0" width="48.37" height="48.37" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_973" data-name="Gruppe 973" transform="translate(-1138.315 -437.986)">
+    <g id="paper-fab_mini_done" data-name="paper-fab mini done" transform="translate(1145.815 443.486)">
+      <g transform="matrix(1, 0, 0, 1, -7.5, -5.5)" filter="url(#Oval_44)">
+        <circle id="Oval_44-2" data-name="Oval 44" cx="16.685" cy="16.685" r="16.685" transform="translate(7.5 5.5)" fill="#b6b6b6"/>
+      </g>
+    </g>
+    <path id="Pfad_21325" data-name="Pfad 21325" d="M15.5,14h-.79l-.28-.27a6.51,6.51,0,1,0-.7.7l.27.28v.79l5,4.99L20.49,19Zm-6,0A4.5,4.5,0,1,1,14,9.5,4.494,4.494,0,0,1,9.5,14Z" transform="translate(1150.756 448.427)" fill="#fff"/>
+  </g>
+</svg>
